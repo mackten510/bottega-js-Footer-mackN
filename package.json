@@ -1,0 +1,25 @@
+{
+  "name": "bottega-js-footer-mackn",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer generating js application with updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackten510/bottega-js-Footer-mackN.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Mack Ramirez <mack.n.ramirez@gmail.com> (https://www.npmjs.com/~mackrmrz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mackten510/bottega-js-Footer-mackN/issues"
+  },
+  "homepage": "https://github.com/mackten510/bottega-js-Footer-mackN#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
